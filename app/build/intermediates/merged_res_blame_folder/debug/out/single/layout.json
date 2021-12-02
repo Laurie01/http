@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\simple_product_item.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\simple_product_item.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product_detail.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_product.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\content_product.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\regular_product_item.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\regular_product_item.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alert.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\alert.xml"
+    },
+    {
+        "merged": "D:\\semestre5\\android\\clones\\insti-2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product.xml",
+        "source": "D:\\semestre5\\android\\clones\\insti-2021\\app\\src\\main\\res\\layout\\activity_product.xml"
+    }
+]
